@@ -13,7 +13,7 @@ require (
 	github.com/briandowns/spinner v1.11.1
 	github.com/c4milo/gotoolkit v0.0.0-20190525173301-67483a18c17a // indirect
 	github.com/cenkalti/backoff/v4 v4.2.1
-	github.com/cheggaaa/pb/v3 v3.1.2
+	github.com/cheggaaa/pb/v3 v3.1.4
 	github.com/cloudevents/sdk-go/v2 v2.14.0
 	github.com/docker/docker v23.0.6+incompatible
 	github.com/docker/go-units v0.5.0
@@ -35,7 +35,7 @@ require (
 	github.com/klauspost/cpuid v1.2.0
 	github.com/machine-drivers/docker-machine-driver-vmware v0.1.5
 	github.com/mattbaird/jsonpatch v0.0.0-20200820163806-098863c1fc24
-	github.com/mattn/go-isatty v0.0.18
+	github.com/mattn/go-isatty v0.0.19
 	github.com/mitchellh/go-ps v1.0.0
 	github.com/moby/hyperkit v0.0.0-20210108224842-2f061e447e14
 	github.com/olekukonko/tablewriter v0.0.5
@@ -123,7 +123,7 @@ require (
 	github.com/docker/docker-credential-helpers v0.7.0 // indirect
 	github.com/emicklei/go-restful/v3 v3.9.0 // indirect
 	github.com/evanphx/json-patch v4.12.0+incompatible // indirect
-	github.com/fatih/color v1.14.1 // indirect
+	github.com/fatih/color v1.15.0 // indirect
 	github.com/felixge/fgprof v0.9.3 // indirect
 	github.com/fsnotify/fsnotify v1.6.0 // indirect
 	github.com/fvbommel/sortorder v1.0.1 // indirect
