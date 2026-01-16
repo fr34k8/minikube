@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 # Last update Jan 8, 2026 5:17 PM
-FROM golang:1.25.5 AS builder
+FROM golang:1.26rc2 AS builder
 WORKDIR /app
 COPY go.mod go.sum ./
 RUN go mod download
